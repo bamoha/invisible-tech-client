@@ -15,7 +15,7 @@ Go to the server repository [Here](https://github.com/bamoha/invisible-tech-serv
 
 ## To run the Client
 
-Change the working directory to Client and run
+Pull the repo and run
 
 <code>
   npm install
